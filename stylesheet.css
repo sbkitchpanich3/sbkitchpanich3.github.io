@@ -1,0 +1,47 @@
+.navbar {
+            margin-bottom: 0;
+            border-radius: 0;
+            padding: 1% 0;
+            font-size: 1.2em;
+            border: 0;
+        }
+
+.navbar-brand {
+            float: left;
+            min-height: 55px;
+            padding: 0 15px 5px;
+        }
+
+.navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active a:focus, .navbar-inverse .navbar-nav .active a:hover,{
+            color: #FFF;
+        }
+
+.carousel-caption {
+            text-transform: uppercase;
+        }
+
+.btn{
+            font-size: 18px;
+            color: #FFF;
+            padding: 12px 22px;
+            background: #000000;
+            border: 2px solid #FFF;
+        }
+
+footer {
+            width: 100%;
+            background-color: #000000;
+            padding: 1%;
+            color: white;
+        }
+
+.footer-short {
+            position: absolute;
+            right: 0;
+            bottom: 0;
+            left: 0;
+        }
+
+.fa {
+            color: #FFF;
+        }
